@@ -1,1 +1,1 @@
-alert('cross-domain');
+alert(document.domain);
